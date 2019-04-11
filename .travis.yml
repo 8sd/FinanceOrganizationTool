@@ -5,6 +5,5 @@ android:
     - android-26
     - extra
   licenses:
-    - android-sdk-license-.+
     - '.+'
 
