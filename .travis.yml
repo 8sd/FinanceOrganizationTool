@@ -4,5 +4,5 @@ android:
     - build-tools-26.0.2
     - android-26
     - extra
-    - add-on
-
+before_install:
+    - yes | sdkmanager "platforms;android-26"
