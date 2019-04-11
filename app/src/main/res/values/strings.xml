@@ -46,11 +46,12 @@
     </string>
     <string name="dataprotection_content">
         <![CDATA[
-        <b>FinanceOrganizationTool</b> erhebt, speichert und verarbeitet ausschließlich die von Ihnen eingegebenen Daten. Diese werden ausschließlich lokal auf Ihrem Gerät gespeichert und verarbeitet. Eine Übertragung etwaiger Daten über das Internet findet nicht statt, dies kann leicht anhand der nicht eingeforderten Berechtigung für Internetzugang überprüft werden. Die Speicherung der Daten erfolgt im Datenverzeichnis der App, welches von anderen Apps inklusive Datei-Browser im Regelfall nicht lesbar ist. Eine Ausnahme bilden sog. "gerootete" Geräte: Bei diesen kann anderen Apps oder einer Debugging-Schnittstelle am Computer der Zugriff auf Appdaten gewährt werden. Für die Sicherheit Ihrer Daten vor fremdem Zugriff, z. B. durch sogenanntes Shoulder-Surfing, Fehler im Android-System oder durch ein "gerootetes" Gerät wird ausdrücklich keine Verantwortung übernommen.
+        <b>FinanceOrganizationTool</b> erhebt, speichert und verarbeitet ausschließlich die von Ihnen eingegebenen Daten. Diese werden ausschließlich lokal auf Ihrem Gerät gespeichert und verarbeitet. Eine Übertragung etwaiger Daten über das Internet findet nicht statt, dies kann leicht anhand der nicht eingeforderten Berechtigung für Internetzugang überprüft werden. Die Speicherung der Daten erfolgt im Datenverzeichnis der App, welches von anderen Apps inklusive Datei-Browser im Regelfall nicht lesbar ist. Eine Ausnahme bilden sog. "gerootete" Geräte: Bei diesen kann anderen Apps oder einer Debugging-Schnittstelle am Computer der Zugriff auf Appdaten gewährt werden. Für die Sicherheit Ihrer Daten vor fremdem Zugriff, z. B. durch sogenanntes Shoulder-Surfing, Fehler im Betriebssystem oder durch ein "gerootetes" Gerät wird ausdrücklich keine Verantwortung übernommen.
         ]]>
     </string>
     <string name="pref_key_categoryorder">catorder</string>
     <string name="pref_key_statsrange">statsrange</string>
+    <string name="pref_key_nightmode">nightmode</string>
 
 
     <!-- general -->
@@ -135,4 +136,6 @@
     <string name="settings_statsrange_title">Auto-Zeitintervall Statistiken</string>
     <string name="settings_statsrange_summary_on">autom. 1 Monat falls Beginn am 01.</string>
     <string name="settings_statsrange_summary_off">Anfang/Ende unabhängig setzen</string>
+    <string name="settings_nightmode_title">Nachtmodus</string>
+    <string name="settings_nightmode_changed_restart_needed">Die Änderung wird nach\neinem App-Neustart aktiv.</string>
 </resources>

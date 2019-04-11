@@ -19,28 +19,22 @@
 <resources>
 
     <string-array name="months">
-        <item>Januar</item>
-        <item>Februar</item>
-        <item>März</item>
-        <item>April</item>
-        <item>Mai</item>
-        <item>Juni</item>
-        <item>Juli</item>
-        <item>August</item>
-        <item>September</item>
-        <item>Oktober</item>
-        <item>November</item>
-        <item>Dezember</item>
-    </string-array>
-    
-    <string-array name="settings_nightmode_entries">
-        <item>automatisch</item>
-        <item>immer</item>
-        <item>nie</item>
+        <item>january</item>
+        <item>february</item>
+        <item>march</item>
+        <item>april</item>
+        <item>may</item>
+        <item>june</item>
+        <item>juli</item>
+        <item>august</item>
+        <item>september</item>
+        <item>october</item>
+        <item>november</item>
+        <item>december</item>
     </string-array>
 
-    <string-array name="settings_nightmode_entry_vals">
-        <item>auto</item>
+    <string-array name="settings_nightmode_entries">
+        <item>automatically</item>
         <item>always</item>
         <item>never</item>
     </string-array>
